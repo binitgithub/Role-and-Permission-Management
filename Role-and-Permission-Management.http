@@ -1,0 +1,6 @@
+@Role_and_Permission_Management_HostAddress = http://localhost:5023
+
+GET {{Role_and_Permission_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
